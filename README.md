@@ -1,4 +1,3 @@
-# Project Template
-
-This is a template for Alware Projects
 # SimpleNNTypeScript
+
+A simple neural network for educational purposes
